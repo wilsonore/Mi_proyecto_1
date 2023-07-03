@@ -1,0 +1,20 @@
+header{
+    background-color: black;
+}
+
+.Contactenos{
+    background: yellowgreen;
+}
+.enviar{
+    display: flex;
+    background-color: rgb(60, 60, 59);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 0px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+.enviar:hover{
+    background-color: #047633;
+    color: white;
+}
